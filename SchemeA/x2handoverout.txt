@@ -1,0 +1,454 @@
+Waf: Entering directory `/home/minh/ns-allinone-3.35/ns-3.35/build'
+[2978/3049] Compiling scratch/x2handover.cc
+[3008/3049] Linking build/scratch/x2handover
+Waf: Leaving directory `/home/minh/ns-allinone-3.35/ns-3.35/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (27.381s)
+0.028 /NodeList/6/DeviceList/0/LteUeRrc/ConnectionEstablished UE IMSI 1: connected to CellId 1 with RNTI 1
+0.0399286 /NodeList/4/DeviceList/0/LteEnbRrc/ConnectionEstablished eNB CellId 1: successful connection of UE with IMSI 1 RNTI 1
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 20
+Rx Packets : 15
+Duration    : 0.183383
+Last Received Packet  : 0.191 Seconds
+Throughput: 672.26 Kbps
+Mean{Delay}: 0.0133832
+Mean{Jitter}: 0
+Total{Delay}: 0.200748
+Total{Jitter}: 0
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 40
+Rx Packets : 35
+Duration    : 0.383383
+Last Received Packet  : 0.391 Seconds
+Throughput: 750.31 Kbps
+Mean{Delay}: 0.0133832
+Mean{Jitter}: 0
+Total{Delay}: 0.468411
+Total{Jitter}: 0
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 60
+Rx Packets : 55
+Duration    : 0.583383
+Last Received Packet  : 0.591 Seconds
+Throughput: 774.845 Kbps
+Mean{Delay}: 0.0133832
+Mean{Jitter}: 0
+Total{Delay}: 0.736075
+Total{Jitter}: 0
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 80
+Rx Packets : 75
+Duration    : 0.783383
+Last Received Packet  : 0.791 Seconds
+Throughput: 786.852 Kbps
+Mean{Delay}: 0.0133832
+Mean{Jitter}: 0
+Total{Delay}: 1.00374
+Total{Jitter}: 0
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 100
+Rx Packets : 95
+Duration    : 0.983383
+Last Received Packet  : 0.991 Seconds
+Throughput: 793.975 Kbps
+Mean{Delay}: 0.0133832
+Mean{Jitter}: 0
+Total{Delay}: 1.2714
+Total{Jitter}: 0
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 120
+Rx Packets : 115
+Duration    : 1.18338
+Last Received Packet  : 1.191 Seconds
+Throughput: 798.69 Kbps
+Mean{Delay}: 0.0133832
+Mean{Jitter}: 0
+Total{Delay}: 1.53907
+Total{Jitter}: 0
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 140
+Rx Packets : 135
+Duration    : 1.38338
+Last Received Packet  : 1.391 Seconds
+Throughput: 802.042 Kbps
+Mean{Delay}: 0.0133832
+Mean{Jitter}: 0
+Total{Delay}: 1.80673
+Total{Jitter}: 0
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 160
+Rx Packets : 155
+Duration    : 1.58338
+Last Received Packet  : 1.591 Seconds
+Throughput: 804.547 Kbps
+Mean{Delay}: 0.0133832
+Mean{Jitter}: 0
+Total{Delay}: 2.07439
+Total{Jitter}: 0
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 180
+Rx Packets : 175
+Duration    : 1.78338
+Last Received Packet  : 1.791 Seconds
+Throughput: 806.49 Kbps
+Mean{Delay}: 0.0133832
+Mean{Jitter}: 0
+Total{Delay}: 2.34206
+Total{Jitter}: 0
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 200
+Rx Packets : 195
+Duration    : 1.98338
+Last Received Packet  : 1.991 Seconds
+Throughput: 808.042 Kbps
+Mean{Delay}: 0.0133832
+Mean{Jitter}: 0
+Total{Delay}: 2.60972
+Total{Jitter}: 0
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 220
+Rx Packets : 215
+Duration    : 2.18338
+Last Received Packet  : 2.191 Seconds
+Throughput: 809.309 Kbps
+Mean{Delay}: 0.0133832
+Mean{Jitter}: 0
+Total{Delay}: 2.87738
+Total{Jitter}: 0
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 240
+Rx Packets : 235
+Duration    : 2.38338
+Last Received Packet  : 2.391 Seconds
+Throughput: 810.363 Kbps
+Mean{Delay}: 0.0133832
+Mean{Jitter}: 0
+Total{Delay}: 3.14505
+Total{Jitter}: 0
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 260
+Rx Packets : 255
+Duration    : 2.58338
+Last Received Packet  : 2.591 Seconds
+Throughput: 811.255 Kbps
+Mean{Delay}: 0.0133832
+Mean{Jitter}: 0
+Total{Delay}: 3.41271
+Total{Jitter}: 0
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 280
+Rx Packets : 275
+Duration    : 2.78338
+Last Received Packet  : 2.791 Seconds
+Throughput: 812.018 Kbps
+Mean{Delay}: 0.0133832
+Mean{Jitter}: 0
+Total{Delay}: 3.68037
+Total{Jitter}: 0
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 300
+Rx Packets : 295
+Duration    : 2.98338
+Last Received Packet  : 2.991 Seconds
+Throughput: 812.678 Kbps
+Mean{Delay}: 0.0133832
+Mean{Jitter}: 0
+Total{Delay}: 3.94804
+Total{Jitter}: 0
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 320
+Rx Packets : 315
+Duration    : 3.18338
+Last Received Packet  : 3.191 Seconds
+Throughput: 813.256 Kbps
+Mean{Delay}: 0.0133832
+Mean{Jitter}: 0
+Total{Delay}: 4.2157
+Total{Jitter}: 0
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 340
+Rx Packets : 335
+Duration    : 3.38338
+Last Received Packet  : 3.391 Seconds
+Throughput: 813.766 Kbps
+Mean{Delay}: 0.0133832
+Mean{Jitter}: 0
+Total{Delay}: 4.48336
+Total{Jitter}: 0
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 360
+Rx Packets : 355
+Duration    : 3.58338
+Last Received Packet  : 3.591 Seconds
+Throughput: 814.218 Kbps
+Mean{Delay}: 0.0133832
+Mean{Jitter}: 0
+Total{Delay}: 4.75103
+Total{Jitter}: 0
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 380
+Rx Packets : 375
+Duration    : 3.78338
+Last Received Packet  : 3.791 Seconds
+Throughput: 814.623 Kbps
+Mean{Delay}: 0.0133832
+Mean{Jitter}: 0
+Total{Delay}: 5.01869
+Total{Jitter}: 0
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 400
+Rx Packets : 395
+Duration    : 3.98338
+Last Received Packet  : 3.991 Seconds
+Throughput: 814.987 Kbps
+Mean{Delay}: 0.0133832
+Mean{Jitter}: 0
+Total{Delay}: 5.28635
+Total{Jitter}: 0
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+4.16993 /NodeList/4/DeviceList/0/LteEnbRrc/HandoverStart eNB CellId 1: start handover of UE with IMSI 1 RNTI 1 to CellId 2
+4.174 /NodeList/6/DeviceList/0/LteUeRrc/HandoverStart UE IMSI 1: previously connected to CellId 1 with RNTI 1, doing handover to CellId 2
+4.17721 /NodeList/6/DeviceList/0/LteUeRrc/HandoverEndOk UE IMSI 1: successful handover to CellId 2 with RNTI 1
+4.18993 /NodeList/5/DeviceList/0/LteEnbRrc/HandoverEndOk eNB CellId 2: completed handover of UE with IMSI 1 RNTI 1
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 420
+Rx Packets : 414
+Duration    : 4.18538
+Last Received Packet  : 4.193 Seconds
+Throughput: 812.963 Kbps
+Mean{Delay}: 0.0134122
+Mean{Jitter}: 2.89855e-05
+Total{Delay}: 5.55263
+Total{Jitter}: 0.012
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 440
+Rx Packets : 435
+Duration    : 4.38338
+Last Received Packet  : 4.391 Seconds
+Throughput: 815.616 Kbps
+Mean{Delay}: 0.0134337
+Mean{Jitter}: 5.51724e-05
+Total{Delay}: 5.84368
+Total{Jitter}: 0.024
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 460
+Rx Packets : 455
+Duration    : 4.58338
+Last Received Packet  : 4.591 Seconds
+Throughput: 815.889 Kbps
+Mean{Delay}: 0.0134315
+Mean{Jitter}: 5.27473e-05
+Total{Delay}: 6.11134
+Total{Jitter}: 0.024
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 480
+Rx Packets : 475
+Duration    : 4.78338
+Last Received Packet  : 4.791 Seconds
+Throughput: 816.139 Kbps
+Mean{Delay}: 0.0134295
+Mean{Jitter}: 5.05263e-05
+Total{Delay}: 6.37901
+Total{Jitter}: 0.024
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 500
+Rx Packets : 495
+Duration    : 4.98338
+Last Received Packet  : 4.991 Seconds
+Throughput: 816.369 Kbps
+Mean{Delay}: 0.0134276
+Mean{Jitter}: 4.84848e-05
+Total{Delay}: 6.64667
+Total{Jitter}: 0.024
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 520
+Rx Packets : 515
+Duration    : 5.18338
+Last Received Packet  : 5.191 Seconds
+Throughput: 816.582 Kbps
+Mean{Delay}: 0.0134259
+Mean{Jitter}: 4.66019e-05
+Total{Delay}: 6.91433
+Total{Jitter}: 0.024
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 540
+Rx Packets : 535
+Duration    : 5.38338
+Last Received Packet  : 5.391 Seconds
+Throughput: 816.778 Kbps
+Mean{Delay}: 0.0134243
+Mean{Jitter}: 4.48598e-05
+Total{Delay}: 7.182
+Total{Jitter}: 0.024
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 560
+Rx Packets : 555
+Duration    : 5.58338
+Last Received Packet  : 5.591 Seconds
+Throughput: 816.961 Kbps
+Mean{Delay}: 0.0134228
+Mean{Jitter}: 4.32432e-05
+Total{Delay}: 7.44966
+Total{Jitter}: 0.024
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 580
+Rx Packets : 575
+Duration    : 5.78338
+Last Received Packet  : 5.791 Seconds
+Throughput: 817.131 Kbps
+Mean{Delay}: 0.0134214
+Mean{Jitter}: 4.17391e-05
+Total{Delay}: 7.71733
+Total{Jitter}: 0.024
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 600
+Rx Packets : 595
+Duration    : 5.98338
+Last Received Packet  : 5.991 Seconds
+Throughput: 817.29 Kbps
+Mean{Delay}: 0.0134201
+Mean{Jitter}: 4.03361e-05
+Total{Delay}: 7.98499
+Total{Jitter}: 0.024
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 620
+Rx Packets : 615
+Duration    : 6.18338
+Last Received Packet  : 6.191 Seconds
+Throughput: 817.438 Kbps
+Mean{Delay}: 0.0134189
+Mean{Jitter}: 3.90244e-05
+Total{Delay}: 8.25265
+Total{Jitter}: 0.024
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 640
+Rx Packets : 635
+Duration    : 6.38338
+Last Received Packet  : 6.391 Seconds
+Throughput: 817.577 Kbps
+Mean{Delay}: 0.0134178
+Mean{Jitter}: 3.77953e-05
+Total{Delay}: 8.52032
+Total{Jitter}: 0.024
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 660
+Rx Packets : 655
+Duration    : 6.58338
+Last Received Packet  : 6.591 Seconds
+Throughput: 817.707 Kbps
+Mean{Delay}: 0.0134168
+Mean{Jitter}: 3.66412e-05
+Total{Delay}: 8.78798
+Total{Jitter}: 0.024
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
+Flow ID     : 1 ; 1.0.0.2 -----> 7.0.0.2
+Tx Packets : 680
+Rx Packets : 675
+Duration    : 6.78338
+Last Received Packet  : 6.791 Seconds
+Throughput: 817.83 Kbps
+Mean{Delay}: 0.0134158
+Mean{Jitter}: 3.55556e-05
+Total{Delay}: 9.05564
+Total{Jitter}: 0.024
+Lost Packets: 0
+Dropped Packets: 0
+---------------------------------------------------------------------------
